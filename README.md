@@ -40,6 +40,6 @@ Generated ideas:
 - Idea 5
 ```
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
